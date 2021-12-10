@@ -1,4 +1,8 @@
 # proyek-ML-HumanDetection-Kel-13
+Anggota Kelompok :
+Bryan Elmer Cahyadi - C14190160
+Marselus Richard - C14190120
+Verrel Ravanelli - C14190152
 
 Codingan Asli adalah Train.py dan Test.py
 
